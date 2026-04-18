@@ -9,6 +9,8 @@ These devices have been tested and confirmed working with this fix:
 | Brand | Model | Key Replaced | Status |
 |-------|-------|-------------|--------|
 | ASUS | Zenbook S 16 (UM5606) | Right Ctrl | Verified |
+| Lenovo | IdeaPad Slim 5 (15ARP10) | Right Ctrl | Verified |
+| LG | gram 16Z90TL | Right Ctrl | Verified |
 
 ## Likely Compatible
 
@@ -81,6 +83,12 @@ These devices are known to have the Copilot key and should work with this fix (s
 | Model | Key Replaced | Notes |
 |-------|-------------|-------|
 | Surface Laptop (7th gen) | Right Win / Menu | |
+
+### LG
+
+| Model | Key Replaced | Notes |
+|-------|-------------|-------|
+| LG gram 16Z90TL | Right Ctrl | |
 
 ## Is the Copilot Key the Same Across Brands?
 
