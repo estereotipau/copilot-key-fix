@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" font-family="DejaVu Sans Mono, Menlo, monospace">
+  <rect x="0" y="0" width="1280" height="640" fill="#282828"/>
+  <rect x="0" y="0" width="1280" height="10" fill="#458588"/>
+
+  <text x="90" y="225" fill="#EBDBB2" font-size="86" font-weight="bold">copilot-key-fix</text>
+  <text x="96" y="296" fill="#A89984" font-size="32">Disable or remap the Copilot key to Right Ctrl</text>
+  <text x="96" y="340" fill="#928374" font-size="27">ASUS &#183; Lenovo &#183; HP &#183; Dell &#183; Acer &#183; Samsung &#183; Surface</text>
+
+  <!-- remap motif: 3 intercepted events -> Right Ctrl -->
+  <g transform="translate(96,410)" font-size="26" font-weight="bold">
+    <rect x="0"   y="0" width="110" height="64" rx="8" fill="#3C3836" stroke="#504945" stroke-width="2"/>
+    <text x="55"  y="41" fill="#EBDBB2" text-anchor="middle">Win</text>
+    <text x="124" y="44" fill="#928374" text-anchor="middle">+</text>
+    <rect x="140" y="0" width="130" height="64" rx="8" fill="#3C3836" stroke="#504945" stroke-width="2"/>
+    <text x="205" y="41" fill="#EBDBB2" text-anchor="middle">Shift</text>
+    <text x="289" y="44" fill="#928374" text-anchor="middle">+</text>
+    <rect x="305" y="0" width="110" height="64" rx="8" fill="#3C3836" stroke="#504945" stroke-width="2"/>
+    <text x="360" y="41" fill="#EBDBB2" text-anchor="middle">F23</text>
+    <text x="450" y="46" fill="#A89984" text-anchor="middle" font-size="40">&#8594;</text>
+    <rect x="500" y="0" width="250" height="64" rx="8" fill="#458588"/>
+    <text x="625" y="41" fill="#282828" text-anchor="middle">Right Ctrl</text>
+  </g>
+
+  <text x="90" y="588" fill="#689D6A" font-size="26">github.com/estereotipau/copilot-key-fix</text>
+  <text x="1190" y="588" fill="#504945" font-size="24" text-anchor="end">AutoHotkey v2</text>
+</svg>
